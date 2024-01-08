@@ -22,3 +22,5 @@ import './commands'
 require('cypress-iframe');
 
 require('cypress-xpath');
+
+import 'cypress-file-upload';
